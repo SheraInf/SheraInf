@@ -1,15 +1,18 @@
 # Sherkhan · Shera
 
-### Python · Backend Development · Applied AI
+### AI Development · Machine Learning · Deep Learning
+### Python · Backend Development · Web Development
 
-AI student at **International Information Technology University (IITU)**. I build Telegram bots, APIs and web interfaces, and study statistics, machine learning and computer vision.
+AI student at **International Information Technology University (IITU)** focused on AI development, machine learning, deep learning and computer vision. I build Telegram and Discord bots, APIs, automation tools and web interfaces while developing my skills in data analysis, model evaluation and reliable application design.
 
 ## Focus
 
+- **AI development:** building applications that integrate AI capabilities with practical workflows.
+- **Machine learning & deep learning:** studying predictive modeling, neural networks, model evaluation and computer vision.
+- **Data & research:** statistical analysis, visualization and computer vision research.
 - **Backend:** asynchronous Python, REST APIs and service integrations.
-- **Automation:** Telegram bots, media processing and admin tools.
+- **Automation:** Telegram and Discord bots, media processing and admin tools.
 - **Web:** React, Next.js and TypeScript interfaces.
-- **AI & data:** statistical analysis and computer vision research.
 
 ## Selected projects
 
@@ -21,11 +24,12 @@ AI student at **International Information Technology University (IITU)**. I buil
 
 ## Technologies
 
+**AI & ML focus:** Machine Learning, Deep Learning, Computer Vision, Model Evaluation  
 **Backend:** Python, asyncio, FastAPI, aiogram, aiohttp  
 **Frontend:** JavaScript, TypeScript, React, Next.js, HTML, CSS  
 **Data:** SQLite, Pandas, NumPy, Matplotlib, Seaborn, SciPy  
 **Tools:** Git, GitHub, Docker, Jupyter, FFmpeg
 
-Currently learning more about model evaluation, computer vision and reliable application design.
+Currently deepening my knowledge of machine learning, deep learning and computer vision, alongside building reliable backend services and AI-powered applications.
 
 [LinkedIn](https://www.linkedin.com/in/sherkhan-yerkebay-4b6b023aa/) · [Public repositories](https://github.com/SheraInf?tab=repositories)
