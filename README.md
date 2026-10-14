@@ -1,4 +1,4 @@
-# Sherkhan Yerkebay · Shera
+# Sherkhan · Shera
 
 ### Python · Backend Development · Applied AI
 
